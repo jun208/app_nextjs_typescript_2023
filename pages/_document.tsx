@@ -11,3 +11,6 @@ export default function Document() {
     </Html>
   )
 }
+
+
+// 공통으로 레이아웃 잡을 때
